@@ -312,7 +312,22 @@
       "aliases": [],
       "categories": []
     },
-    "Eaglercraft Ampler Launcher": {
+    "EaglerCraft 1.12.2": {
+            "path": "ampler-launcher/mc/1.12.2",
+            "aliases": [],
+            "categories": []
+        },
+        "EaglerCraft 1.5.2": {
+            "path": "ampler-launcher/mc/1.5.2",
+            "aliases": [],
+            "categories": []
+        },
+        "EaglerCraft 1.8.8": {
+            "path": "ampler-launcher/mc/1.8.8",
+            "aliases": [],
+            "categories": []
+        },
+        "Eaglercraft Ampler Launcher": {
       "path": "ampler-launcher",
       "aliases": [],
       "categories": []
