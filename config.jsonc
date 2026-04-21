@@ -20,6 +20,12 @@
             The list does not have to be ordered in any way but for the
             sake of simplicity we will order this list alphanumerically.
         */
+    "Roblox": {
+  "path": "https://now.gg",
+  "aliases": ["roblox", "bloxorz", "online"],
+  "categories": ["multiplayer", "popular"]
+}
+
     "1v1.LOL": {
       "path": "1v1-lol",
       "aliases": [],
